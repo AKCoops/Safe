@@ -1,3 +1,3 @@
 # Safe
-Drive encrypted datastore for PII and High Risk Accounts inside and out of Vault. Works with CommunityChest.
+Drive encrypted datastore for PII and High Risk Accounts inside and out of Vault.
 
